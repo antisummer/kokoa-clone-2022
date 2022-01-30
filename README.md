@@ -1,3 +1,3 @@
 # Kokoa Clone 2022 Update
 
-CSS got so much better summer!
+HTML & CSS are so much fun! summer!
